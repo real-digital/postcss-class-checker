@@ -1,6 +1,6 @@
 {
   "name": "@real-digital/postcss-class-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PostCSS plugin to check for classes",
   "keywords": [
     "postcss",
@@ -14,9 +14,9 @@
     "test": "jest && eslint *.js --quiet"
   },
   "author": "Guido Gasper <guido.gasper@real-digital.de>",
-  "repository": "",
+  "repository": "https://github.com/real-digital/postcss-class-checker",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/real-digital/postcss-class-checker/issues"
   },
   "dependencies": {
     "lodash.difference": "^4.5.0",
