@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "lodash.difference": "^4.5.0",
-    "postcss": "^7.0.6"
+    "postcss": "^7.0.26"
   },
   "devDependencies": {
     "@logux/eslint-config": "^27.0.0",
@@ -28,13 +28,13 @@
     "eslint-config-airbnb": "^17.1.1",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-config-standard": "^12.0.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-jest": "^22.15.2",
-    "eslint-plugin-node": "^9.0.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-jest": "^22.21.0",
+    "eslint-plugin-node": "^9.2.0",
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-security": "^1.4.0",
     "eslint-plugin-standard": "^4.0.1",
-    "jest": "^23.6.0"
+    "jest": "^24.9.0"
   },
   "jest": {
     "testEnvironment": "node"
