@@ -1,6 +1,6 @@
 {
   "name": "@real-digital/postcss-class-checker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "PostCSS plugin to check for classes",
   "keywords": [
     "postcss",
